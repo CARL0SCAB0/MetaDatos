@@ -1,4 +1,4 @@
-# Extract Metadatos Script
+# Extract Metadata Script
 
 This Python script extracts metadata from DOCX, XLSX, and PDF files located in a specified directory.
 
