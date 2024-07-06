@@ -29,9 +29,7 @@ Usage
 Run the script by providing the path to the directory containing the files:
 
 
-```bash
 python extract_metadata.py <directory_path>
-```
 ```bash
 python extract_metadata.py /path/to/your/directory
 ```
