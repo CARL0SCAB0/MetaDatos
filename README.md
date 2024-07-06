@@ -28,21 +28,19 @@ Usage
 
 Run the script by providing the path to the directory containing the files:
 
-sh
 
+```bash
 python extract_metadata.py <directory_path>
-
-For example:
-
-sh
-
+```
+```bash
 python extract_metadata.py /path/to/your/directory
+```
 
 The script will search for all DOCX, XLSX, and PDF files in the specified directory (and subdirectories) and display their metadata on the screen.
 Example Output
 
-sh
 
+```sh
 Metadata for /path/to/your/directory/document.docx:
   author: Author
   title: Title
@@ -51,3 +49,4 @@ Metadata for /path/to/your/directory/document.docx:
   last_modified_by: Last modified by
   created: Creation date
   modified: Modification date
+```
