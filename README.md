@@ -18,9 +18,9 @@ This Python script extracts metadata from DOCX, XLSX, and PDF files located in a
    git clone <repository_url>
    cd <repository_name>
 
-    Install the required libraries using pip:
+2. Install the required libraries using pip:
 
-    sh
+    ```sh
 
     pip install -r requirements.txt
 
@@ -28,8 +28,9 @@ Usage
 
 Run the script by providing the path to the directory containing the files:
 
-
+```bash
 python extract_metadata.py <directory_path>
+```
 ```bash
 python extract_metadata.py /path/to/your/directory
 ```
