@@ -1,3 +1,6 @@
+DIAZ SOTO CARLOS ANTONIO 6CV2
+COMPUTER SECURITY
+==================================
 # Extract Metadata Script
 
 This Python script extracts metadata from DOCX, XLSX, and PDF files located in a specified directory.
